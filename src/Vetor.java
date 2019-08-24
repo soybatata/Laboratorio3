@@ -54,5 +54,6 @@ public class Vetor {
  
  public void reverte() {}
  
+ public void imprime() {}
 
 }
