@@ -1,10 +1,9 @@
-package testeNivelamento;
 
 public class Vetor {
 	
 	public static final int TAMANHO = 10 ;
 	private int v[] = new int [TAMANHO]; //armazena os elementos 
-	private int numElementos; //informação sobre o numero de elementos inseridos  
+	private int numElementos; //informaï¿½ï¿½o sobre o numero de elementos inseridos  
  
  public Vetor (int numElementos ) {
 	 this.numElementos= 0;
