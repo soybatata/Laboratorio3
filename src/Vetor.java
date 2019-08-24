@@ -51,6 +51,8 @@ public class Vetor {
  
  public int elementoDe(int pos) {return 0;}
  
+ 
+ 
  public void reverte() {}
  
 
